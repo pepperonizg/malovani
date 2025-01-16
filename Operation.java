@@ -11,5 +11,5 @@ class Operation {
 }
 
 enum OperationType {
-    DRAW, ERASE
+    DRAW, ERASE, LOAD_IMAGE
 }
